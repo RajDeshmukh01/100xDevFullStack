@@ -1,0 +1,10 @@
+git status -> to check staged and unstaged files, current branch
+git add -> adds files to be commited
+git commit -> commits file to git
+git push -> pushes files to github
+
+
+git add .
+git commit -m "description"
+git push origin main
+
